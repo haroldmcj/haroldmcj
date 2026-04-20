@@ -1,5 +1,5 @@
 ## Hi there 👋
 # Hey, I'm Harold!
 
--I'm studying software development in Quito, Ecuador 🇪🇨
+-I am a software development student from Quito, Ecuador 🇪🇨
 
